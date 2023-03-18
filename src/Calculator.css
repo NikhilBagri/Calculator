@@ -1,0 +1,47 @@
+.calculator {
+    max-width: 375px; /* width of iPhone 13 display */
+    max-height: 844px; /* height of iPhone 13 display */
+    margin: 0 auto; /* center the calculator horizontally */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+  }
+  
+  .display {
+    flex: 1;
+    padding: 16px;
+    font-size: 36px;
+    text-align: right;
+  }
+  
+  .keypad {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  button {
+    border: none;
+    font-size: 24px;
+    padding: 12px;
+    background-color: #fff;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  button.gray {
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
+  button.orange {
+    background-color: #ff9c00;
+    color: #fff;
+  }
+  
+  button.zero {
+    grid-column: 1/3;
+  }
+  
