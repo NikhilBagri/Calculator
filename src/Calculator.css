@@ -1,7 +1,7 @@
 .calculator {
-    max-width: 375px; /* width of iPhone 13 display */
-    max-height: 844px; /* height of iPhone 13 display */
-    margin: 0 auto; /* center the calculator horizontally */
+    max-width: 375px;
+    height: 500px;
+    margin: 0 auto;
     border: 1px solid #ccc;
     border-radius: 8px;
     overflow: hidden;
