@@ -1,4 +1,4 @@
-# Phone Calculator Replica
+# iPhone Calculator Replica
 
 ## Overview
 This project is a web-based calculator application built using React, HTML, CSS, and JavaScript. The calculator replicates the design and functionality of the iPhone's calculator app, offering a user-friendly interface and a wide range of mathematical operations.
