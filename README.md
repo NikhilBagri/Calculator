@@ -14,17 +14,14 @@ To view the site, simply access the live demo hosted on https://calculator-dun-e
 6. Responsive design, compatible with various screen sizes and devices
 
 ## Technologies Used
-React: JavaScript library for building user interfaces
-HTML: Markup language for creating the structure of the web application
-CSS: Styling language for designing the visual appearance of the application
-JavaScript: Programming language used for interactive and dynamic functionality
+* React: JavaScript library for building user interfaces
+* HTML: Markup language for creating the structure of the web application
+* CSS: Styling language for designing the visual appearance of the application
+* JavaScript: Programming language used for interactive and dynamic functionality
 
 ## Usage
 
-1.Clone the repository:
-git clone https://github.com/NikhilBagri/Calculator.git
-3. Install dependencies:
-npm install
-4. Start the application:
-npm start
-5. Access the calculator in your web browser at http://localhost:3000.
+1.Clone the repository: git clone https://github.com/NikhilBagri/Calculator.git
+2. Install dependencies:npm install
+3. Start the application:npm start
+4. Access the calculator in your web browser at http://localhost:3000.
