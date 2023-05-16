@@ -21,7 +21,7 @@ To view the site, simply access the live demo hosted on https://calculator-dun-e
 
 ## Usage
 
-1.Clone the repository: git clone https://github.com/NikhilBagri/Calculator.git
-2. Install dependencies:npm install
-3. Start the application:npm start
-4. Access the calculator in your web browser at http://localhost:3000.
+* Clone the repository: git clone https://github.com/NikhilBagri/Calculator.git
+* Install dependencies:npm install
+* Start the application:npm start
+* Access the calculator in your web browser at http://localhost:3000.
